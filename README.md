@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<br>
-
 I'm a passionate Full Stack Developer from 🇭🇺 Hungary.
 
 - 🌞 During the day working at [@theapexlab](https://apexlab.io)
