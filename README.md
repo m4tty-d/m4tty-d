@@ -4,7 +4,7 @@ I'm a passionate Full Stack Developer from 🇭🇺 Hungary.
 
 - 🌞 During the day working at [@theapexlab](https://apexlab.io)
 - 🌚 At night working on various side projects, e.g. [@embedi](https://embedi.hu)
-- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/)
+- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/) + [Web3](https://en.wikipedia.org/wiki/Web3) with [Solana](https://solana.com/)
 
 <br>
 
